@@ -28,3 +28,4 @@ C:\Users\User\source\repos\API_TS\ObjDir\21.1\AAA.Plugin.Supports\AAA.Plugin.Sup
 C:\Users\User\source\repos\API_TS\ObjDir\21.1\AAA.Plugin.Supports\AAA.Tekla21_Test.exe
 C:\Users\User\source\repos\API_TS\ObjDir\21.1\AAA.Plugin.Supports\AAA.Tekla21_Test.pdb
 C:\Users\User\source\repos\API_TS\ObjDir\21.1\AAA.Plugin.Supports\AAA.Plugin.Supports.f_Main.resources
+C:\Users\User\source\repos\API_TS\ObjDir\21.1\AAA.Plugin.Supports\AAA.Plugin.Supports.csprojAssemblyReference.cache
